@@ -1,47 +1,22 @@
 ---
-layout: page
-title: Thank You!
-sitemap: false
+layout: welcome 
+title:  Welcome 
+cover:  true #add this
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+<center>
+👣🐤
+행복을 찾아 '프론트엔드' 라는 흰 도화지에 발자국을 만들어내고 있는 병아리 입니다.<br>
+<br>
+자연어처리 기반의 머신러닝 엔지니어이며 <a href="https://www.business.kaist.ac.kr/programs/02030601">한국과학기술원</a>에서 디지털금융을 전공하였습니다.<br>
+<br>
+데이터마이닝, 머신러닝, 그리고 인공지능 기술을 다양한 분야에 적용하는 데 관심이 많습니다.<br>
+<br>
+Please check my <a href="/public/(Eng)CV.pdf">CV</a> to find out more about me !
+</center>
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
-
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
-
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
-
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
-
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+***
+<p align="center">
+<img src="/assets/img/Woman_with_a_Parasol.jpg" width="75%"><br>
+<a href="https://artsandculture.google.com/asset/woman-with-a-parasol-madame-monet-and-her-son/EwHxeymQQnprMg">Google Arts & Culture</a> ©  <b> Claude Monet</b>.  <code>Woman with a Parasol</code>.  1875. Oil on canvas
+</p>
